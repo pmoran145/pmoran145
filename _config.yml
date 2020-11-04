@@ -5,6 +5,7 @@
 title: Create Today
 # Short bio or description (displayed in the header)
 description: A Blog
+theme: jekyll-theme-architect
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
@@ -22,4 +23,3 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-architect
