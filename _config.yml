@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 # Name of your site (displayed in the header)
-title: Create Today
+title: Creative Habit
 # Short bio or description (displayed in the header)
 description: A Blog
 theme: jekyll-theme-slate
