@@ -8,7 +8,8 @@
 }
 
 .nav-content {
-  display: flex; 
+  display: flex;
+  verical-align: center
 }
 
 .nav-link {
