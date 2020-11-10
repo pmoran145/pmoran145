@@ -1,8 +1,4 @@
-#project_title {
-  vertical_align: center
-}
-
-#header_wrap {
+.outer {
   background-image: url(/assets/images/Creative-Habit.jpeg);
   background-size: cover;
 }
