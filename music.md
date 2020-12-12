@@ -10,7 +10,7 @@ For now here's some pictures relating to my favorite favorite things to do.
 ![Home](/assets/images/Home.JPG)
 
 ## You show me the locked doors, I'll keep playing with the keys
-![Keys](/assets/images/Keys.JPG)
+![Keys](/assets/images/Keys.jpg)
 
 ## Trying to see if the lighting makes me sound better
 ![Guitar](/assets/images/Jammin'.JPG)
