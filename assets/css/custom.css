@@ -5,7 +5,7 @@
 
 .nav-content {
   display: flex;
-  verical-align: center
+  font-family: 'Source Serif Pro', serif; 
 }
 
 .nav-link {
