@@ -1,5 +1,5 @@
-#header_wrap {
-  background: url(/assets/images/Creative-Habit.jpeg);
+header {
+  background-image: url("/assets/images/Creative-Habit.jpeg");
   background-size: cover;
 }
 
