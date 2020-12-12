@@ -5,7 +5,7 @@
 
 .nav-content {
   display: flex;
-  align: horizontal 
+  text-align: center
 }
 
 .nav-link {
