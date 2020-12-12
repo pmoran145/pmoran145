@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ## Escape Artist
 
 I'm an escape artist\ 
