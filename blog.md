@@ -14,5 +14,6 @@ faster than I can see<br/>
 
 ## Live to Create<br/>
 Create to Live<br/>
+Free your mind. It's you against yourself.<br/>
 
 ![C2L2](/assets/images/Create to Live to.JPG)
