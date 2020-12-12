@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Anxiety<br/>
+## Anxiety
 
 I bite my tongue until I taste the irony<br/>
 As I cringe up entirely<br/>
