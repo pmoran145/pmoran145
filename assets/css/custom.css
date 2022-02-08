@@ -4,10 +4,7 @@
 }
 
 .nav-content {
-  height: auto;
-  margin: 0;
-  padding: 0;
-  display: inline-block;
+ position: center
 }
 
 .nav-link {
