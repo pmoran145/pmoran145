@@ -4,8 +4,10 @@
 }
 
 .nav-content {
-  display: flex;
-  text-align: center
+  height: auto;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
 }
 
 .nav-link {
